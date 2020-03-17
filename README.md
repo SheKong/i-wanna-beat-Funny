@@ -1,4 +1,4 @@
-# i-wanna-beat-Funny
+# i wanna beat Funny
 
 注意：下载之后请将.exe文件塞到一个文件夹里，最好不要直接打开qwq
 
